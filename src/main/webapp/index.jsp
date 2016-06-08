@@ -26,7 +26,7 @@
         <div id="login">   
           <h1>Connexion</h1>
           
-          <form action="marchands.html" method="post">
+          <form action="marchands.jsp" method="post">
           
             <div class="field-wrap">
             <label>
@@ -53,7 +53,7 @@
         <div id="signup">   
           <h1>Création d'un nouveau compte</h1>
           
-          <form action="marchands.html" method="post">
+          <form action="marchands.jsp" method="post">
           
           <div class="field-wrap">
             <label>

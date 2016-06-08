@@ -32,8 +32,8 @@
 	</div>
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="help.html">Aide</a></li>
-			<li><a href="index.php">Déconnexion</a></li>
+			<li><a href="help.jsp">Aide</a></li>
+			<li><a href="index.jsp">Déconnexion</a></li>
 		</ul>
 
 	  </div>
@@ -103,7 +103,7 @@
 			</tbody>
 		  </table>
 	  </div>
-	 	<a href="marchands.html"><span class="glyphicon glyphicon-arrow-left" style="font-size:25px"></span></a>
+	 	<a href="marchands.jsp"><span class="glyphicon glyphicon-arrow-left" style="font-size:25px"></span></a>
   </div>
 
 

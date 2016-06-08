@@ -32,8 +32,8 @@
 	</div>
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="help.html" class="elementmenu">Aide</a></li>
-			<li><a href="index.php" class="elementmenu">Déconnexion</a></li>
+			<li><a href="help.jsp" class="elementmenu">Aide</a></li>
+			<li><a href="index.jsp" class="elementmenu">Déconnexion</a></li>
 		</ul>
 
 	  </div>
@@ -67,32 +67,32 @@
 			  </tr>
 			</thead>
 			<tbody>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe169e3eba035e633b65d94</td>
 			  </tr>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe163hdeba035e633b65d94</td>
 			  </tr>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe169e3eba035e633b6dh94</td>
 			  </tr>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe169e3eba035e633b65d94</td>
 			  </tr>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe163hdeba035e633b65d94</td>
 			  </tr>
-			  <tr onclick="window.document.location='transactions.html'">
+			  <tr onclick="window.document.location='transactions.jsp'">
 				<td>Desjardins Solutions</td>
 				<td>webtransact@desjardins.ca</td>
 				<td>cf23df2207d99a74fbe169e3eba035e633b6dh94</td>

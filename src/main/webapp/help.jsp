@@ -32,8 +32,8 @@
   </div>
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="help.html">Aide</a></li>
-      <li><a href="index.php">Déconnexion</a></li>
+      <li><a href="help.jsp">Aide</a></li>
+      <li><a href="index.jsp">Déconnexion</a></li>
     </ul>
 
     </div>
@@ -44,16 +44,7 @@
   <h1>Document de l'API</h1>
 
   <h2>Étape 1</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ante nulla. Integer accumsan, magna vitae egestas pharetra, mauris urna posuere sem, quis facilisis massa ex pretium dui. Cras id ligula at risus mattis faucibus. Aenean id nulla tincidunt, faucibus sem sed, congue eros. Aenean sit amet elit erat. Nulla porta enim sed nisi vulputate, id suscipit ante porttitor. Maecenas efficitur arcu pharetra, rutrum turpis ac, bibendum sem. Aliquam id orci id leo volutpat volutpat. Phasellus leo leo, gravida ut dapibus vitae, molestie vitae mi. <br><br>
-
-Nunc quam velit, bibendum et enim in, dignissim mattis risus. Nulla efficitur ornare nisl et pretium. Maecenas a nulla at ante consequat malesuada. Aliquam tincidunt, dolor id pulvinar commodo, justo mi consectetur mauris, nec laoreet ante enim dapibus nunc. Nunc ut lacus mattis libero vehicula elementum. Duis auctor massa ac risus lacinia, sit amet vehicula massa eleifend. Vivamus scelerisque magna sed lectus gravida, ac dapibus ipsum consectetur. Aliquam ante velit, laoreet quis imperdiet sed, gravida nec tortor. Ut maximus erat fringilla elit pretium, vel dictum leo porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus pulvinar facilisis euismod. Phasellus in suscipit ligula. Sed volutpat lacus metus, non scelerisque turpis cursus non. Ut nisi neque, lobortis in metus ut, interdum commodo neque. Integer in porta nisl, id venenatis tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>
-</p>
   <h2>Étape 2</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel ante nulla. Integer accumsan, magna vitae egestas pharetra, mauris urna posuere sem, quis facilisis massa ex pretium dui. Cras id ligula at risus mattis faucibus. Aenean id nulla tincidunt, faucibus sem sed, congue eros. Aenean sit amet elit erat. Nulla porta enim sed nisi vulputate, id suscipit ante porttitor. Maecenas efficitur arcu pharetra, rutrum turpis ac, bibendum sem. Aliquam id orci id leo volutpat volutpat. Phasellus leo leo, gravida ut dapibus vitae, molestie vitae mi.<br><br>
-
-Nunc quam velit, bibendum et enim in, dignissim mattis risus. Nulla efficitur ornare nisl et pretium. Maecenas a nulla at ante consequat malesuada. Aliquam tincidunt, dolor id pulvinar commodo, justo mi consectetur mauris, nec laoreet ante enim dapibus nunc. Nunc ut lacus mattis libero vehicula elementum. Duis auctor massa ac risus lacinia, sit amet vehicula massa eleifend. Vivamus scelerisque magna sed lectus gravida, ac dapibus ipsum consectetur. Aliquam ante velit, laoreet quis imperdiet sed, gravida nec tortor. Ut maximus erat fringilla elit pretium, vel dictum leo porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus pulvinar facilisis euismod. Phasellus in suscipit ligula. Sed volutpat lacus metus, non scelerisque turpis cursus non. Ut nisi neque, lobortis in metus ut, interdum commodo neque. Integer in porta nisl, id venenatis tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>
-</p>
-
 </div>
 
 
