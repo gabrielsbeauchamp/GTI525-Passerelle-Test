@@ -42,9 +42,7 @@
             <input type="password"required autocomplete="off"/>
           </div>
           
-          <p class="forgot"><a href="#">Mot de passe oublié?</a></p>
-          
-          <button class="button button-block"/>Se connecter</button>
+          <button class="button button-block">Se connecter</button>
           
           </form>
 
@@ -90,7 +88,7 @@
             <input type="password"required autocomplete="off"/>
           </div>
 
-          <button type="submit" class="button button-block"/>Créer un compte</button>
+          <button type="submit" class="button button-block">Créer un compte</button>
           
           </form>
 

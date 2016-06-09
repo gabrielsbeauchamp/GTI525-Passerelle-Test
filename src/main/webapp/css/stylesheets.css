@@ -52,6 +52,12 @@ div.table-title {
    text-transform:uppercase;
 }
 
+.highlight-headers {
+    margin-bottom: 0;
+    border-radius: 3px;
+    border-bottom: 1px solid #CACACA;
+    background-color: #f4f4f4;
+}
 
 /*** Table Styles **/
 
@@ -176,4 +182,8 @@ td.text-right {
 .navbar-default .navbar-nav>li>a{
   color:white;
   font-size: 20px;
+}
+
+code .w {
+    color: #bbb;
 }
